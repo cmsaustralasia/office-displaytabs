@@ -1,0 +1,24 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "https://coda.io/d/_dipPPF2QcjK/View-Production-Overview_su6-e",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "https://coda.io/d/_dipPPF2QcjK/Content-By-Room_su7Yc",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 200
+    },
+    {
+      "url": "google.com",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
