@@ -7,48 +7,48 @@
   "websites": [
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/View-Production-Overview_su6-e?hideSections=true&view=full",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 240
+      "duration": 20,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Content-By-Room_su7Yc?hideSections=true&view=full",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 240
+      "duration": 20,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO01_suJE1?hideSections=true&view=full",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 240
+      "duration": 15,
+      "tabReloadIntervalSeconds": 310
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO01_suJE1?hideSections=true&view=full",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 240
+      "duration": 15,
+      "tabReloadIntervalSeconds": 320
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO02_suzrN?hideSections=true&view=full",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 240
+      "duration": 15,
+      "tabReloadIntervalSeconds": 330
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO03_suBGO?hideSections=true&view=full",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 240
+      "duration": 15,
+      "tabReloadIntervalSeconds": 340
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO04_suPBl?hideSections=true&view=full",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 240
+      "duration": 15,
+      "tabReloadIntervalSeconds": 360
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO05_su6-j?hideSections=true&view=full",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 240
+      "duration": 15,
+      "tabReloadIntervalSeconds": 380
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO06_suZUA?hideSections=true&view=full",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 240
+      "duration": 15,
+      "tabReloadIntervalSeconds": 305
     }
   ]
 }
