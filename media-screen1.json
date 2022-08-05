@@ -1,1 +1,19 @@
-asdcsd
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "https://coda.io/d/_dipPPF2QcjK/View-Production-Overview_su6-e?hideSections=true&view=full",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 240
+    },
+    {
+      "url": "https://coda.io/d/_dipPPF2QcjK/Content-By-Room_su7Yc?hideSections=true&view=full",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 240
+    }
+  ]
+}
