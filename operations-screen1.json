@@ -23,32 +23,37 @@
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO01_suJE1?hideSections=true&view=full",
       "duration": 15,
-      "tabReloadIntervalSeconds": 320
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO02_suzrN?hideSections=true&view=full",
       "duration": 15,
-      "tabReloadIntervalSeconds": 330
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO03_suBGO?hideSections=true&view=full",
       "duration": 15,
-      "tabReloadIntervalSeconds": 340
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO04_suPBl?hideSections=true&view=full",
       "duration": 15,
-      "tabReloadIntervalSeconds": 360
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO05_su6-j?hideSections=true&view=full",
       "duration": 15,
-      "tabReloadIntervalSeconds": 380
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO06_suZUA?hideSections=true&view=full",
       "duration": 15,
-      "tabReloadIntervalSeconds": 305
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://coda.io/d/_dipPPF2QcjK/Program_suoK_?hideSections=true&view=full",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 600
     }
   ]
 }
