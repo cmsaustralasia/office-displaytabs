@@ -6,7 +6,7 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://coda.io/d/_dipPPF2QcjK/View-Production-Overview_su6-e?hideSections=true&view=full",
+      "url": "https://coda.io/d/22-110-Showcase_dipPPF2QcjK/Production-Tasks-Overview-Plen-Breakouts_su6-e?hideSections=true&view=full",
       "duration": 20,
       "tabReloadIntervalSeconds": 300
     },
@@ -16,7 +16,7 @@
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url": "https://coda.io/d/_dipPPF2QcjK/Task-Tracker-BO01_suJE1?hideSections=true&view=full",
+      "url": "https://coda.io/d/22-110-Showcase_dipPPF2QcjK/Production-Tasks-Overview-EXPO_suKWJ?hideSections=true&view=full",
       "duration": 15,
       "tabReloadIntervalSeconds": 310
     },
@@ -54,6 +54,16 @@
       "url": "https://coda.io/d/_dipPPF2QcjK/Program_suoK_?hideSections=true&view=full",
       "duration": 20,
       "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://coda.io/d/22-110-Showcase_dipPPF2QcjK/Bump-In-Out-Schedule_suX5u?hideSections=true&view=full",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://coda.io/d/22-110-Showcase_dipPPF2QcjK/Bump-In-Out-Schedule_suX5u?hideSections=true&view=full",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 500
     }
   ]
 }
